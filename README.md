@@ -1,4 +1,4 @@
-# poller_opposites_election_hackathon
+# Poller Opposites Datathon
 
 ## Business Understanding
 
